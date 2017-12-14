@@ -1,0 +1,3 @@
+[submodule "Adafruit_Userspace_PiTFT"]
+	path = Adafruit_Userspace_PiTFT
+	url = https://github.com/adafruit/Adafruit_Userspace_PiTFT.git
